@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> LUIS EDUARDO DE LEÓN PACHECO, CARNET: 202000959 </title>
+</head>
+
+<body>
+<tr>
+<p>CURSOS</p>
+</body>
+</tr>
+
+<tr>
+<body>
+<table border="1" width="100%">
+<thead bgcolor="yellow">
+<tr>
+<th>IPC1</th>
+<th>PRIMER SEMESTRE 2022</th>
+</tr>
+</thead>
+</tr>
+<tbody align="center">
+<tr>
+<td>IPC1 LABORATORIO</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+<tr>
+<td>FISICA 2</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+<tr>
+<td>FISICA 2 LABORATORIO</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+<tr>
+<td>INTERMEDIA 2</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+<tr>
+<td>ESTADISTICA 1</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+<tr>
+<td>PRACTICA ESTADISTICA 1</td>
+<td>PRIMER SEMESTRE 2022</td>
+</tr>
+
+</tbody>
+
+</table>
+</body>
+</html>
